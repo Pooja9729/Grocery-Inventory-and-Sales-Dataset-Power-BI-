@@ -4,11 +4,17 @@
 This project analyzes grocery sales and inventory data using Power BI to uncover sales trends, monitor stock levels, and identify products requiring reordering. The objective is to enable data-driven decision-making for retail operations through interactive dashboards and actionable insights.
 
 🎯 Project Objectives
+
 Analyze overall sales performance and revenue trends
+
 Monitor inventory levels and stock availability
+
 Identify low-stock and reorder-required products
+
 Understand product-wise and category-wise demand
+
 Optimize inventory to reduce stock-outs and overstocking
+
 Track key business KPIs such as Revenue, Sales Quantity, Inventory Value
 Support supplier planning and procurement decisions
 🏬 Domain
