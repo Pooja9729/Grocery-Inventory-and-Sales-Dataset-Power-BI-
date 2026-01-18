@@ -5,7 +5,7 @@ This project analyzes grocery sales and inventory data using Power BI to uncover
 
 🎯 Project Objectives
 
-Analyze overall sales performance and revenue trends
+    Analyze overall sales performance and revenue trends
 
 Monitor inventory levels and stock availability
 
